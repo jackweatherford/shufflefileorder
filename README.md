@@ -1,4 +1,4 @@
-# shufflefileorder
+# Shuffle File Order
 Shuffles the file order of a folder.
 
 Place shuffle.py in the directory where the folder you want to shuffle is located.
